@@ -1,5 +1,5 @@
 # is-sorted-copy
-### This is clone of https://github.com/dcousens/is-sorted The purpose of the repo is just for studying
+### This is clone of https://github.com/codeandplay/is-sorted-copy The purpose of the repo is just for studying
 [![TRAVIS](https://secure.travis-ci.org/codeandplay/is-sorted-copy.png)](http://travis-ci.org/codeandplay/is-sorted-copy)
 [![NPM](https://img.shields.io/npm/v/is-sorted.svg)](https://www.npmjs.org/package/is-sorted)
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
